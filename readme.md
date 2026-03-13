@@ -22,5 +22,5 @@
 - **`git remote add origin urlDuRemote`** : *Permet de créer un lien vers un remote distant*
 - **`git push origin --all`** : *Synchroniser depuis local vers remote*
 - **`git clone`**: *Cloner un projet situé sur un remote*
-- **`git fetch`**: **
+- **`git fetch`**: *Rapatrie les derniers changements du serveur sans modifier le working tree*
 - **`git pull`**: **
