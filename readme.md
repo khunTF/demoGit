@@ -9,6 +9,9 @@
 - **`git rm --cached`** : *Retirer un/des fichier(s) du staging*
 - **`git checkout`** : *Naviguer entre les branches/commits/tags*
 - **`git revert`** : *Créer des commmits inverses pour revenir en arrière*
+- **`git stash`** : *Créer un brouillon*
+- **`git stash apply`** : *Appliquer le brouillon*
+- **`git stash pop`** : *Appliquer le brouillon et le retirer de la liste de brouillons*
 
 ## Modification de l'historique (Attention à ne faire que si l'historique n'a pas encore été synchronisé avec le remote)
 
@@ -27,3 +30,6 @@
 
 ### Branches
 - **`git branch`**: *Voir les branches (la branche marquée avec * c'est la branche courante)*
+- **`git branch nouvelleBranche`**: *Créer une branche*
+- **`git checkout -b nouvelleBranche`**: *Créer une branche + checkout sur branche*
+- **`git branch -d brancheASupprimer`**: *Supprimer une branche*
