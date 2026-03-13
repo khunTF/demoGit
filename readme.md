@@ -26,3 +26,4 @@
 - **`git pull`**: *git fetch + git merge*
 
 ### Branches
+- **`git branch`**: *Voir les branches (la branche marquée avec * c'est la branche courante)*
