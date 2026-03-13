@@ -14,3 +14,10 @@
 
 - **`git reset --hard`** : *Effacer les changements ds l'historique et working tree*
 - **`git reset --soft`** : *Effacer les changements ds l'historique et mais conserver les changements ds le working tree*
+
+### Rebase squash
+- **`git rebase -i`** : *Permet de écraser des commits sur un autre commit*
+
+### Remote
+-- **`git remote add origin urlDuRemote`** : *Permet de créer un lien vers un remote distant*
+-- **`git push origin --all`** : *Synchroniser depuis local vers remote*
