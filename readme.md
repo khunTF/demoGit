@@ -23,4 +23,6 @@
 - **`git push origin --all`** : *Synchroniser depuis local vers remote*
 - **`git clone`**: *Cloner un projet situé sur un remote*
 - **`git fetch`**: *Rapatrie les derniers changements du serveur sans modifier le working tree*
-- **`git pull`**: **
+- **`git pull`**: *git fetch + git merge*
+
+### Branches
