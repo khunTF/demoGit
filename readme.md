@@ -20,6 +20,7 @@
 
 ### Rebase squash
 - **`git rebase -i`** : *Permet de écraser des commits sur un autre commit*
+- **`git merge --squash`** : *Permet de merge en seul commit* 
 
 ### Remote
 - **`git remote add origin urlDuRemote`** : *Permet de créer un lien vers un remote distant*
@@ -33,3 +34,7 @@
 - **`git branch nouvelleBranche`**: *Créer une branche*
 - **`git checkout -b nouvelleBranche`**: *Créer une branche + checkout sur branche*
 - **`git branch -d brancheASupprimer`**: *Supprimer une branche*
+
+### Pas encore vus
+- **`git tag`**
+- **`git cherry-pick`**
