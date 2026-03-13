@@ -19,5 +19,5 @@
 - **`git rebase -i`** : *Permet de écraser des commits sur un autre commit*
 
 ### Remote
--- **`git remote add origin urlDuRemote`** : *Permet de créer un lien vers un remote distant*
--- **`git push origin --all`** : *Synchroniser depuis local vers remote*
+- **`git remote add origin urlDuRemote`** : *Permet de créer un lien vers un remote distant*
+- **`git push origin --all`** : *Synchroniser depuis local vers remote*
